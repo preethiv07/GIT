@@ -1,4 +1,5 @@
 # GIT
 GIT help
 # Links
-https://github.com/preethiv07/GIT
+Markdown guide : https://guides.github.com/features/mastering-markdown/
+
